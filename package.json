@@ -4,5 +4,10 @@
   "description": "A small module to demonstrate publishing to NPM",
   "main": "index.js",
   "author": "Brian Swank",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bswank/super-error-handler.git"
+  },
+  "homepage": "https://github.com/bswank/super-error-handler#readme"
 }
