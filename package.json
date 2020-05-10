@@ -1,0 +1,8 @@
+{
+  "name": "super-error-handler",
+  "version": "1.0.0",
+  "description": "A small module to demonstrate publishing to NPM",
+  "main": "index.js",
+  "author": "Brian Swank",
+  "license": "MIT"
+}
